@@ -1,2 +1,2 @@
-# go99
-Go version of 99 problems
+# Go 99
+Go version of 99 problems.
