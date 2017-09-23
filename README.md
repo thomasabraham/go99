@@ -14,3 +14,6 @@ P02.go contains a solution based on slice in go
 
 ### 3. Write a function that returns the K th element of a list.
 P03.go contains a solution based on slice in go
+
+### 4. Write a function that counts the number of elements in a list.
+P04.go contains a solution based on slice in go
