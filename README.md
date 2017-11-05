@@ -1,8 +1,9 @@
 # Go 99
 Go version of 99 problems.
 
-    TODO add some background about 99 problems
+Professor Werner Hett created an interesting collection of 99 problems to practice programming. He created the collection with Prolog in mind, but it is adapted to many other languages. More info can be found [here](https://sites.google.com/site/prologsite/prolog-problems)
 
+This is an attempt to solve those problems using go programing language.
 
 ## List
 
