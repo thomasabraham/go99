@@ -22,3 +22,6 @@ P04.go contains a solution based on slice in go
 
 ### 5. Write a function that reverse the elements in a list.
 P05.go contains a solution based on slice in go
+
+### 6. Write a function that check if the given list is palindrome.
+P06.go contains a solution based on slice in go
