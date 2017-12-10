@@ -25,3 +25,6 @@ P05.go contains a solution based on slice in go
 
 ### 6. Write a function that check if the given list is palindrome.
 P06.go contains a solution based on slice in go
+
+### 7. Write a function that flatten a nested list structure
+P07.go contains a solution.
