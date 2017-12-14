@@ -31,7 +31,7 @@ func Test07(t *testing.T) {
 		for i := range flat {
 			if flat[i] != c.output[i] {
 
-				t.Errorf("Result %s is not equal to expected value %s", flat, c.output)
+				t.Errorf("Result %v is not equal to expected value %v", flat, c.output)
 			}
 		}
 	}
