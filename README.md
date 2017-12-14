@@ -8,23 +8,10 @@ The solutions provided here is neither the most elegant nor the best performing 
 
 ## List
 
-### 1. Write a function that returns the last element of a list
-[P01.go](list/p01.go) contains a solution for this based on slice in go
-
-### 2. Write a function that returns the last but one element of a list.
-[P02.go](list/p02.go) contains a solution based on slice in go
-
-### 3. Write a function that returns the K th element of a list.
-[P03.go](list/p03.go) contains a solution based on slice in go
-
-### 4. Write a function that counts the number of elements in a list.
-[P04.go](list/p04.go) contains a solution based on slice in go
-
-### 5. Write a function that reverse the elements in a list.
-[P05.go](list/p05.go) contains a solution based on slice in go
-
-### 6. Write a function that check if the given list is palindrome.
-[P06.go](list/p06.go) contains a solution based on slice in go
-
-### 7. Write a function that flatten a nested list structure
-[P07.go](list/p07.go) contains a solution.
+1. [Find Last element of a list](list/p01.go)
+2. [Find Last but one element of a list](list/p02.go)
+3. [Find K th element of a list](list/p03.go)
+4. [Count the number of elements in a list](list/p04.go)
+5. [Reverse the elements in a list](list/p05.go)
+6. [Check if the given list is palindrome](list/p06.go)
+7. [Flatten a nested list structure](list/p07.go)
