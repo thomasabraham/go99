@@ -17,3 +17,4 @@ The solutions provided here is neither the most elegant nor the best performing 
 5. [Reverse the elements in a list](list/p05.go)
 6. [Check if the given list is palindrome](list/p06.go)
 7. [Flatten a nested list structure](list/p07.go)
+8. [Remove consecutive duplicates from a list](list/p08.go)
