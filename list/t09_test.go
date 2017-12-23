@@ -1,6 +1,7 @@
 package list
 
 import (
+	"reflect"
 	"testing"
 )
 
@@ -20,9 +21,8 @@ func Test09(t *testing.T) {
 
 	for _, c := range cases {
 		result := PackDuplicates(c.input)
-		if result == nil {
-			t.Error("error")
+		if !reflect.DeepEqual(result, c.output) {
+			t.Errorf("Result %v dont match the expected output %v", result, c.output)
 		}
-		// TODO test the cases properly
 	}
 }
