@@ -19,3 +19,4 @@ The solutions provided here is neither the most elegant nor the best performing 
 7. [Flatten a nested list structure](list/p07.go)
 8. [Remove consecutive duplicates from a list](list/p08.go)
 9. [Pack consecutive duplicates to sublist](list/p09.go)
+10. [Run-length encoding of a list](list/p10.go)
