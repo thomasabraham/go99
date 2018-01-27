@@ -21,3 +21,4 @@ The solutions provided here is neither the most elegant nor the best performing 
 9. [Pack consecutive duplicates to sublist](list/p09.go)
 10. [Run-length encoding of a list](list/p10.go)
 11. [Modified run-length encoding of a list](list/p11.go)
+12. [Decode a run-length encoded list](list/p12.go)
