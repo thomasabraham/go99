@@ -27,4 +27,5 @@ The solutions provided here is neither the most elegant nor the best performing 
 15. [Duplicate elements of a list N times](list/p15.go)
 16. [Drop every Nth element from a list](list/p16.go)
 17. [Split a list into two parts, length of first part is given](list/p17.go)
+18. [Extract a slice from a list](list/p18.go)
 
