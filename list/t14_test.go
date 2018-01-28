@@ -19,7 +19,7 @@ func Test14(t *testing.T) {
 	}
 
 	for _, c := range cases {
-		result := DuplicatesElements(c.input)
+		result := DuplicateElements(c.input)
 		if len(result) != len(c.output) {
 			t.Errorf("Length of result %v don't match with expected output %v", result, c.output)
 		}
