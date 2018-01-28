@@ -23,4 +23,5 @@ The solutions provided here is neither the most elegant nor the best performing 
 11. [Modified run-length encoding of a list](list/p11.go)
 12. [Decode a run-length encoded list](list/p12.go)
 13. [Run-length encoding direct](list/p13.go)
+14. [Duplicate elements of a list](list/p14.go)
 
