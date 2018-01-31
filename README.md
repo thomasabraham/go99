@@ -29,4 +29,5 @@ The solutions provided here is neither the most elegant nor the best performing 
 17. [Split a list into two parts, length of first part is given](list/p17.go)
 18. [Extract a slice from a list](list/p18.go)
 19. [Rotate a list N places to the left](list/p19.go)
+20. [Remove Kth element from a list](list/p20.go)
 
