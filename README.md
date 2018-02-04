@@ -30,4 +30,5 @@ The solutions provided here is neither the most elegant nor the best performing 
 18. [Extract a slice from a list](list/p18.go)
 19. [Rotate a list N places to the left](list/p19.go)
 20. [Remove Kth element from a list](list/p20.go)
+21. [Insert given element at Kth position in a list](list/p21.go)
 
