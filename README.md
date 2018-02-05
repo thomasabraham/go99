@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/thomasabraham/go99.svg?branch=master)](https://travis-ci.org/thomasabraham/go99)
+[![License](https://img.shields.io/badge/license-GPL%20v3-blue.svg)](LICENSE)
 
 # Go 99
 Go version of 99 problems.
