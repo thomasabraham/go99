@@ -36,4 +36,5 @@ The solutions provided here is neither the most elegant nor the best performing 
 22. [Create a list containing all integers within a given range](list/p22.go)
 23. [Randomly choose N items from a list](list/p23.go)
 24. [Randomly choose N numbers from a given range](list/p24.go)
+25. [Generate random permutation of a given list](list/p25.go)
 
