@@ -38,4 +38,5 @@ The solutions provided here is neither the most elegant nor the best performing 
 23. [Randomly choose N items from a list](list/p23.go)
 24. [Randomly choose N numbers from a given range](list/p24.go)
 25. [Generate random permutation of a given list](list/p25.go)
+26. [Find all the combinations of a given length from the given list](list/p26.go)
 
