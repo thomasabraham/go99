@@ -39,4 +39,5 @@ The solutions provided here is neither the most elegant nor the best performing 
 24. [Randomly choose N numbers from a given range](list/p24.go)
 25. [Generate random permutation of a given list](list/p25.go)
 26. [Find all the combinations of a given length from the given list](list/p26.go)
+27. [Group a set into disjoint subsets](list/p27.go)
 
